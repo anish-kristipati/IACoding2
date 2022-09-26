@@ -1,0 +1,35 @@
+{
+  "kind": "civicinfo#electionsQueryResponse",
+  "elections": [
+    {
+      "ocdDivisionId": "ocd-division/country:us",
+      "name": "VIP Test Election",
+      "electionDay": "2025-06-06",
+      "id": "2000"
+    },
+    {
+      "ocdDivisionId": "ocd-division/country:us/state:mi",
+      "name": "Michigan Special Election",
+      "electionDay": "2022-03-01",
+      "id": "7172"
+    },
+    {
+      "ocdDivisionId": "ocd-division/country:us/state:tx",
+      "name": "Texas Democratic Primary Election",
+      "electionDay": "2022-03-01",
+      "id": "7174"
+    },
+    {
+      "ocdDivisionId": "ocd-division/country:us/state:tx",
+      "name": "Texas Republican Primary Election",
+      "electionDay": "2022-03-01",
+      "id": "7175"
+    },
+    {
+      "ocdDivisionId": "ocd-division/country:us/state:la",
+      "name": "Louisiana Municipal Primary Election",
+      "electionDay": "2022-03-26",
+      "id": "7179"
+    }
+  ]
+}
